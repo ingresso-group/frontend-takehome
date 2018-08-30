@@ -1,0 +1,15 @@
+{
+  "name": "frontend-takehome",
+  "version": "1.0.0",
+  "description": "An interview test for Front-End Development job candidates",
+  "main": "index.js",
+  "author": "Ben Tilley <bentilley@ingresso.co.uk>",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
