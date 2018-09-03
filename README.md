@@ -15,7 +15,7 @@ Take this opportunity to show us your:
 
 * Clone this repository.
 * Complete the task
-* Send us your solution provide us the link to a **private** repository.
+* Send us your solution or provide us with a link to a **private** repository.
 * Leave comments where you were not sure how to properly proceed.
 * Create a new README with:
     - instructions about how to run your build
@@ -36,6 +36,7 @@ Your task is to create a calendar widget for a theatre booking app.
 
 ### FUNCTIONALITY
 
+* *NOTE: You can use a third party date library if you wish*
 * The widget should be able to cycle through a month by month view of the year
 * The calendar should be able to display performance data based on calls to
 our api (you will make the calls to your local node server and it will forward
