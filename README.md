@@ -44,5 +44,6 @@ them to our api). You have access to 3 end points:
     - event data: http://localhost:5656/api/event/:event_id
     - calendar data: http://localhost:5656/api/calendar/:event_id
     - months data: http://localhost:5656/api/months/:event_id
+* Use the event ID 2GXJ, which is the ID for the show Wicked
 * You are free to use any framework you wish, or do it VanillaJS style. Please
 provide a note on your choice in the README.
